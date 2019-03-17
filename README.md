@@ -1,4 +1,4 @@
-# simple example app TODO using react
+#  calculator app using react
 
 EN: An example of how to create a simple calculator app using components and props with React .
 
