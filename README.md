@@ -1,9 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# simple example app TODO using react
+
+EN: An example of how to create a simple calculator app using components and props with React .
+
+
+FR: C'est un code source pour un simple exemple de app calculatrice en utilusant les components et les props avec React
+### Version
+1.0.0
+
+
+### Installation
+
+EN: Install the dependencies
+FR: Installer les dépendances
+```sh
+$ npm install
+```
+### Author
+
+HOCINE ismail
+(https://github.com/hocineimail)
+
+
 
 ## Available Scripts
 
-In the project directory, you can run:
-
+EN: In the project directory, you can run:
+FR: Dans le répertoire du projet, vous pouvez exécuter:
 ### `npm start`
 
 Runs the app in the development mode.<br>
@@ -12,22 +34,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -66,3 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### License
+
+This project is licensed under the MIT License
